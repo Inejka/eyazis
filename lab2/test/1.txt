@@ -1,0 +1,3 @@
+Physical structure that houses a computer's processor, memory, storage, communication ports and peripheral devices. Each of these components (called devices) have a different purpose, which may be either accepting inputs, storing data or sending outputs.
+
+For example, a mouse and a microphone are input devices used to record user activities and transform them into data that is transmitted to the system unit. A hard disk is a storage unit where data is stored and accessed by other devices.
